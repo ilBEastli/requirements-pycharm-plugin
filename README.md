@@ -1,3 +1,8 @@
+# :fire: :fire: :fire: works in PyCharm 2023.2+
+use PyCharm -> Settings... -> Plugins -> "cog wheel" icon -> Install Plugin from Disk...  
+or Help -> Find Action... -> Install Plugin from Disk...
+
+---
 # Requirements plugin
 
 [![JetBrains IntelliJ Plugins](https://img.shields.io/jetbrains/plugin/r/stars/10837?label=JetBrans%20Marketplace)](https://plugins.jetbrains.com/plugin/10837)
