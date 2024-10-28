@@ -22,7 +22,6 @@ dependencies {
     val serializationVersion = "1.4.1"
     compileOnly("org.jetbrains.kotlinx:kotlinx-serialization-core-jvm:$serializationVersion")
     compileOnly("org.jetbrains.kotlinx:kotlinx-serialization-json:$serializationVersion")
-    implementation("io.sentry:sentry:6.10.0")
     testImplementation(kotlin("test"))
     testImplementation("org.junit.jupiter:junit-jupiter-params:5.9.1")
 }
